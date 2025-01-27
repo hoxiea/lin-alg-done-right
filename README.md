@@ -2,16 +2,18 @@
 
 My worked solutions to exercises from Sheldon Axler's "Linear Algebra Done Right".
 
+**Note:** This is a work in progress. I am currently working through the book and adding solutions as I go. And there's no guarantee that my solutions are correct!
+
 ## Structure
 
 The solutions are organized by chapter:
 
-- Chapter 1A: First principles
-- Chapter 1B: Vector spaces
-- Chapter 1C: Linear transformations
-- Chapter 2A: Linear maps
-- Chapter 2B: Matrices
-- Chapter 2C: Work in progress!
+- Chapter 1A: Real and Complex Numbers
+- Chapter 1B: Definition of a Vector Space
+- Chapter 1C: Subspaces
+- Chapter 2A: Span and Linear Independence
+- Chapter 2B: Bases
+- Chapter 2C: Dimension (in progress!)
 
 ## Viewing the Solutions
 
