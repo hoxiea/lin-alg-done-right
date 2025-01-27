@@ -30,3 +30,4 @@ With Typst installed:
 ```bash
 typst compile main.typ
 ```
+
