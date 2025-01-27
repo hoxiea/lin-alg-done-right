@@ -572,9 +572,3 @@ Does the sum work? Well, $e(x) + o(x) = (f(x)+f(-x))/2 + (f(x)-f(-x))/2 = (2f(x)
 Thus, these  functions $e(x)$ and $o(x)$ are even and odd respectively, can be defined uniquely in terms of arbitrary $f in RR^(RR)$, and sum to $f$, meaning that $RR^(RR) = V_e xor V_o$, as desired. $qed$
 
 ]
-
-
-
-
-#pagebreak()
-#bibliography("works.bib")
